@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right, #a5fecb, #20bdff, #5433ff);
+   
+}
+.div1{
+ position: relative;
+ padding-top: 150px;
+ 
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-right: 5px;
+}
+
+.btn1{
+ margin-left: 525px;
+}
+h3{
+    text-align: center;
+}
